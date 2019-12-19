@@ -1,4 +1,5 @@
 # Write your code here.
 def line(array)
-  if array.length >= 
+  if array.length == 0 
+    puts 
   
